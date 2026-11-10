@@ -1,0 +1,1 @@
+https://github.com/AlexBoops/gdport-updated use this repo updated version also if u want host ur own worker create a free cloudflare account go to workers and pages create worker, start from hello world, create worker, press edit code, replace worker.js code with my worker.js code and voila, then u can put it into the html and ye.
